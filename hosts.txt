@@ -12,7 +12,6 @@ dau01.ps5.update.playstation.net
 fau01.ps5.update.playstation.net
 djp01.ps5.update.playstation.net
 fjp01.ps5.update.playstation.net
-sgst.prod.dl.playstation.net
 
 # [Manuals Playstation redirect]
 
