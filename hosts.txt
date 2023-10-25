@@ -2,9 +2,17 @@
 ::1  localhost
 
 # [163.com]
-127.0.0.1 analytics.163.com
-127.0.0.1 crash.163.com
-127.0.0.1 iad.g.163.com
+
+duk01.ps5.update.playstation.net
+fuk01.ps5.update.playstation.net
+dus01.ps5.update.playstation.net
+fus01.ps5.update.playstation.net
+feu01.ps5.update.playstation.net
+dau01.ps5.update.playstation.net
+fau01.ps5.update.playstation.net
+djp01.ps5.update.playstation.net
+fjp01.ps5.update.playstation.net
+sgst.prod.dl.playstation.net
 
 # [Manuals Playstation redirect]
-127.0.0.1 manuals.playstation.net
+
